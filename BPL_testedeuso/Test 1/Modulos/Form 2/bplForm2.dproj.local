@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/02/28 10:26:14.000.277,=rtl.dcp</Transaction>
+    <Transaction>2017/02/28 10:27:51.000.810,=F:\Documentos\_VErsionamiento\projects\Test 1\Unit2.pas</Transaction>
+    <Transaction>2017/02/28 10:28:13.000.941,=vcl.dcp</Transaction>
+    <Transaction>2017/02/28 10:30:07.000.449,F:\Documentos\_VErsionamiento\projects\Test 1\Package1.dproj=F:\Documentos\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2017/03/08 11:28:26.000.693,F:\Documentos\_VErsionamiento\projects\Test 1\Modulos\Form 2\edit1.dproj=F:\Documentos\_VErsionamiento\projects\Test 1\Modulos\Form 2\Package1.dproj</Transaction>
+    <Transaction>2017/03/08 11:28:42.000.369,F:\Documentos\_VErsionamiento\projects\Test 1\Modulos\Form 2\bplForm2.dproj=F:\Documentos\_VErsionamiento\projects\Test 1\Modulos\Form 2\edit1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

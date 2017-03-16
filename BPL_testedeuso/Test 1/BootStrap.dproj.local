@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/02/28 10:09:30.000.875,=F:\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/02/28 10:09:54.000.429,=F:\Documentos\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/02/28 10:17:20.000.709,F:\Documentos\Embarcadero\Studio\Projects\Unit1.dfm=F:\Documentos\Embarcadero\Studio\Projects\Test 1\Unit1.dfm</Transaction>
+    <Transaction>2017/02/28 10:17:20.000.709,F:\Documentos\Embarcadero\Studio\Projects\Unit1.pas=F:\Documentos\Embarcadero\Studio\Projects\Test 1\Unit1.pas</Transaction>
+    <Transaction>2017/02/28 10:17:25.000.593,F:\Documentos\Embarcadero\Studio\Projects\Unit2.pas=F:\Documentos\Embarcadero\Studio\Projects\Test 1\Unit2.pas</Transaction>
+    <Transaction>2017/02/28 10:17:25.000.593,F:\Documentos\Embarcadero\Studio\Projects\Unit2.dfm=F:\Documentos\Embarcadero\Studio\Projects\Test 1\Unit2.dfm</Transaction>
+    <Transaction>2017/02/28 10:17:28.000.643,F:\Documentos\Embarcadero\Studio\Projects\Project1.dproj=F:\Documentos\Embarcadero\Studio\Projects\Test 1\Project1.dproj</Transaction>
+    <Transaction>2017/02/28 13:26:59.000.233,F:\Documentos\_VErsionamiento\projects\Test 1\Unit2.pas=</Transaction>
+    <Transaction>2017/03/08 11:27:55.000.599,F:\Documentos\_VErsionamiento\projects\Test 1\BootStrap.dproj=F:\Documentos\_VErsionamiento\projects\Test 1\Project1.dproj</Transaction>
+    <Transaction>2017/03/08 11:30:23.000.666,F:\Documentos\_VErsionamiento\projects\Test 1\Splash.dfm=F:\Documentos\_VErsionamiento\projects\Test 1\Unit1.dfm</Transaction>
+    <Transaction>2017/03/08 11:30:23.000.666,F:\Documentos\_VErsionamiento\projects\Test 1\Splash.pas=F:\Documentos\_VErsionamiento\projects\Test 1\Unit1.pas</Transaction>
+    <Transaction>2017/03/08 14:13:30.000.475,=F:\Documentos\_VErsionamiento\projects\Test 1\AsyncCalls.pas</Transaction>
+    <Transaction>2017/03/08 14:22:38.000.639,=F:\Documentos\_VErsionamiento\projects\Test 1\Unit1.pas</Transaction>
+    <Transaction>2017/03/08 14:23:11.000.457,F:\Documentos\_VErsionamiento\projects\Test 1\MaestroAPI.pas=F:\Documentos\_VErsionamiento\projects\Test 1\Unit1.pas</Transaction>
+    <Transaction>2017/03/08 14:49:29.000.836,=F:\Documentos\_VErsionamiento\projects\Test 1\Unit1.pas</Transaction>
+    <Transaction>2017/03/08 14:49:38.000.666,F:\Documentos\_VErsionamiento\projects\Test 1\UIFormSplash.pas=F:\Documentos\_VErsionamiento\projects\Test 1\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

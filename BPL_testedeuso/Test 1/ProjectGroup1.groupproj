@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{3A722AB0-B1A0-4BB9-9A1E-203B311605D8}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="BootStrap.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Modulos\Form 2\bplForm2.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="BootStrap">
+        <MSBuild Projects="BootStrap.dproj"/>
+    </Target>
+    <Target Name="BootStrap:Clean">
+        <MSBuild Projects="BootStrap.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="BootStrap:Make">
+        <MSBuild Projects="BootStrap.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="bplForm2">
+        <MSBuild Projects="Modulos\Form 2\bplForm2.dproj"/>
+    </Target>
+    <Target Name="bplForm2:Clean">
+        <MSBuild Projects="Modulos\Form 2\bplForm2.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="bplForm2:Make">
+        <MSBuild Projects="Modulos\Form 2\bplForm2.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="BootStrap;bplForm2"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="BootStrap:Clean;bplForm2:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="BootStrap:Make;bplForm2:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
